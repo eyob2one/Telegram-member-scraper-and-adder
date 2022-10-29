@@ -19,7 +19,8 @@ And the "adder" reads .csv file and add member to the target group.
 | |  \ \    / /  | | | |  | ||  __   | | |  | | |_|     |  |     
 | |   \ \  / /   | | | |__| || |__|  | | |__| |         |  |     
 |_|    \_\/_/    |_|  \ ___/ |_______|  \____/          |__|     
-                                                                   
+
+ Here how it works in video.                                                             
 [![Final video of fixing issues in your code in VS Code](http://img.youtube.com/vi/G2lCYj1cbUA/hqdefault.jpg)][def]
 
 [def]: https://www.youtube.com/watch?v=G2lCYj1cbUA
